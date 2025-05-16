@@ -21,12 +21,22 @@ Storing these files here provides version control, easy backup, and portability 
 │   │   └── custom\_layouts/     \# My exported layout JSON files
 │   └── rk\_rk61/
 │       ├── vendor\_definition/  \# Vendor JSON file(s)
-│       └── custom\_layouts/     \# My exported layout JSON files
+│       ├── custom\_layouts/     \# My exported layout JSON files
+│       └── images/              \# Pictures of the keyboard, layout and layers
 
 ```
 
 * **`vendor_definition/`**: Contains the JSON files provided by the keyboard vendor or community that allow usevia.app to load the keyboard's definition. You might need to manually load these in VIA's "Design" tab or use the "Load saved definition" option if the keyboard isn't automatically detected.
 * **`custom_layouts/`**: Contains the JSON files I export from usevia.app after configuring your keymaps, layers, and settings. You can load these using the "Load saved layout" option in usevia.app's "Configure" tab.
+* **`images/`**: Contains pictures of the keyboard(s), useful for visual reference.
+
+## Images:
+
+Here are some pictures of the keyboards in this repository:
+
+### RK ROYAL KLUDGE RK61
+
+![RK61 with original keycaps](keyboard_models/rk_rk61/images/rk61-original-keycaps.jpg)
 
 ## How to Use:
 
