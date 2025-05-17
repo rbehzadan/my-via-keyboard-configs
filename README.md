@@ -32,9 +32,8 @@ Storing these files here provides version control, easy backup, and portability 
 
 ## Images:
 
-Here are some pictures of the keyboards in this repository:
 
-### RK ROYAL KLUDGE RK61
+### RK ROYAL KLUDGE RK61 (Original Keycaps)
 
 ![RK61 with original keycaps](keyboard_models/rk_rk61/images/rk61-original-keycaps.jpg)
 
